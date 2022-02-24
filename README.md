@@ -1,8 +1,8 @@
 ## Olá, primeiramente seja muito bem-vindo(a), meu nome é Irlen Menezes e vou te contar um pouquinho mais sobre meu background profissional.
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irlenmenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlenmenezes&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irlenmenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlenmenezes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  
